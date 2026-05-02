@@ -27,4 +27,4 @@
 https://drive.google.com/drive/folders/1BzQN1THmL7_hZFfEQS4BEhidUtjsH7PG
 
 ## Report Link
-https://drive.google.com/drive/folders/14EqNncxsO9u4BywFx7rrhcVY6_UEVDQU?usp=drive_link
+https://drive.google.com/file/d/1SKaiUDNsj8e9Smximo1cys0bMCLkjNsN/view?usp=drive_link
