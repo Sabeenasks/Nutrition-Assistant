@@ -22,3 +22,9 @@
 - Nutrition totals (calories, protein, carbs, fats)
 - Responsive and attractive UI with nutrition images
 - AI diet-plan generation (OpenAI API) with fallback to local smart planner
+
+## Demo Video Link
+https://drive.google.com/drive/folders/1BzQN1THmL7_hZFfEQS4BEhidUtjsH7PG
+
+## Report Link
+https://drive.google.com/drive/folders/14EqNncxsO9u4BywFx7rrhcVY6_UEVDQU?usp=drive_link
